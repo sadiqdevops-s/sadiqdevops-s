@@ -20,5 +20,5 @@ Linux • Windows Server • CCNA • AWS • Azure • Python • Bash • Git 
 **Network Automation Tool** – Jury Prize Winner at Jetking Cyber Carnival.
 
 ## 📫 Connect
-- LinkedIn: Your LinkedIn URL
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/mohd-sadiq-5212a035a/
+- Email: mohdsadiq7635@gmail.com
