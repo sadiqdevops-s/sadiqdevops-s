@@ -17,9 +17,16 @@ Currently exploring the intersection of network engineering, Linux systems, and 
 ## 🛠 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-RHEL-red?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge)
+![Windows Server](https://img.shields.io/badge/Windows-Server-blue?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-purple?style=for-the-badge)
 
 
 ## 🚀 Featured Project
