@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 <p>
-<img src="https://github.com/sadiiiqqqqqq/sadiiiqqqqqq/blob/main/IMG_20260312_125112.jpg" width="400"/>
+<img src="https://github.com/sadiqdevops-s/sadiqdevops-s/blob/main/IMG-20260514-WA0046%20(2).jpg" width="400"/>
 </p>
 
 #        Hello, I'm Sadiq
